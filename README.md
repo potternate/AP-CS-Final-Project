@@ -1,4 +1,4 @@
-# AP-CS-Final-Project
+# Marvel Fighting Game
 This was my final project in my AP Computer Science course in high school. This course was taught in java and was my first introduction to computer science. All the text below was written by the 16 year old version of myself, enjoy. 
 
 # Summary 
